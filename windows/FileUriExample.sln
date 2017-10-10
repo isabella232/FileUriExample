@@ -12,6 +12,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChakraBridge", "..\node_mod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNFS", "..\node_modules\react-native-fs\windows\RNFS\RNFS.csproj", "{746610D0-8693-11E7-A20D-BF83F7366778}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactNativeWebViewBridge", "..\node_modules\react-native-windows\ReactWindows\ReactNativeWebViewBridge\ReactNativeWebViewBridge.csproj", "{7596216B-669C-41F8-86DA-F3637F6545C0}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		..\node_modules\react-native-windows\ReactWindows\ReactNative.Shared\ReactNative.Shared.projitems*{c7673ad5-e3aa-468c-a5fd-fa38154e205c}*SharedItemsImports = 4
@@ -170,6 +172,36 @@ Global
 		{746610D0-8693-11E7-A20D-BF83F7366778}.ReleaseBundle|x64.Build.0 = Release|x64
 		{746610D0-8693-11E7-A20D-BF83F7366778}.ReleaseBundle|x86.ActiveCfg = Release|x86
 		{746610D0-8693-11E7-A20D-BF83F7366778}.ReleaseBundle|x86.Build.0 = Release|x86
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.Debug|ARM.ActiveCfg = Debug|ARM
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.Debug|ARM.Build.0 = Debug|ARM
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.Debug|x64.ActiveCfg = Debug|x64
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.Debug|x64.Build.0 = Debug|x64
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.Debug|x86.ActiveCfg = Debug|x86
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.Debug|x86.Build.0 = Debug|x86
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.DebugBundle|ARM.ActiveCfg = Debug|ARM
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.DebugBundle|ARM.Build.0 = Debug|ARM
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.DebugBundle|x64.ActiveCfg = Debug|x64
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.DebugBundle|x64.Build.0 = Debug|x64
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.DebugBundle|x86.ActiveCfg = Debug|x86
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.DebugBundle|x86.Build.0 = Debug|x86
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.Development|ARM.ActiveCfg = Debug|ARM
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.Development|ARM.Build.0 = Debug|ARM
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.Development|x64.ActiveCfg = Debug|x64
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.Development|x64.Build.0 = Debug|x64
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.Development|x86.ActiveCfg = Debug|x86
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.Development|x86.Build.0 = Debug|x86
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.Release|ARM.ActiveCfg = Release|ARM
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.Release|ARM.Build.0 = Release|ARM
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.Release|x64.ActiveCfg = Release|x64
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.Release|x64.Build.0 = Release|x64
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.Release|x86.ActiveCfg = Release|x86
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.Release|x86.Build.0 = Release|x86
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.ReleaseBundle|ARM.ActiveCfg = Release|ARM
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.ReleaseBundle|ARM.Build.0 = Release|ARM
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.ReleaseBundle|x64.ActiveCfg = Release|x64
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.ReleaseBundle|x64.Build.0 = Release|x64
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.ReleaseBundle|x86.ActiveCfg = Release|x86
+		{7596216B-669C-41F8-86DA-F3637F6545C0}.ReleaseBundle|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
